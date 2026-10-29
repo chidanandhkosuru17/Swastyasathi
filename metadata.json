@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSaathi - Offline Health-Worker Companion",
+  "description": "Offline-first AI and protocol companion for ASHA and ANM frontline health workers with deterministic danger-sign escalation, protocol citations, and a 500-household visit planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
